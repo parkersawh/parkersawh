@@ -36,8 +36,6 @@
 </p>
 
 <p align="center">
-  I help people get connected — literally.  
-  Working with networks, tech, and the folks who use them @ <a href="https://altivox.net">Altivox Networks</a>.
 </p>
 
 ---

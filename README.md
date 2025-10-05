@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Parker's Profile Picture" width="120" style="border-radius: 50%; border: 2px solid #eee; margin-bottom: 8px; vertical-align: middle;" />
   <a href="https://img.shields.io/badge/I%20use-Arch%20btw-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
   </a>
 </p>

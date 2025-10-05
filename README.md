@@ -60,7 +60,6 @@
 
 - 🌐 [altivox.net](https://altivox.net)
 - 📧 parker.sawh@altivox.net  
-- 💼 [LinkedIn](https://linkedin.com/in/parkersawh)
 
 ---
 

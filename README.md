@@ -8,8 +8,6 @@
 
 ---
 
-> 💻 Building things on the web and occasionally breaking them too.  
-> I like making stuff *actually work* — or at least look like it does.
 
 ---
 

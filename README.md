@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hey, I'm Parker 👋</h1>
-<p align="center"><em>Support | Marketing | Sales @ Altivox Networks</em></p>
+<p align="center"><em>CEO | Sokuna</em></p>
 
 ---
 
@@ -53,8 +53,8 @@
 
 ### 📫 Contact Me
 
-- 🌐 [altivox.net](https://altivox.net)
-- 📧 parker.sawh@altivox.net  
+- 🌐 [sokuna.app](https://sokuna.app)
+- 📧 parker@sokuna.app
 
 ---
 
